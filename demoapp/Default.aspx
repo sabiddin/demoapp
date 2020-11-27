@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This is very awesome app.
+            Something awesome is coming soon in Feb-2020.
         </div>
     </form>
 </body>
